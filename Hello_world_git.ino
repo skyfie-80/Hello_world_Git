@@ -11,4 +11,5 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
   // will this work
+  // **I think we lost GS6GL**
 }
